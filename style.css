@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+#txt-area {
+    display: block;
+    height: 15vh;
+    width: 90%;
+    margin: 1rem;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+#txt-output {
+    width: 90%;
+    height: 15vh;
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+    
+}
+
+#container-center {
+    max-width: 600px;
+    margin: auto;
+}
+
+#heading {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+#btn-translate {
+    width: 9rem;
+    height: 5vh;
+    font-weight: bold;
+    font-size: 1rem;
+    margin: 1rem;
+}
+
+#msg {
+    margin: 1rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+#navigation {
+    background-color: #7C3AED;
+    padding: 1rem;
+    margin: 1rem 0rem;
+}
+
+#footer-text {
+    background-color: #7C3AED;
+    padding: 0.3rem;
+    text-align: center;
+    margin-top: 1.6rem;
+}
+
+#footer-msg {
+    max-width: 400px;
+    margin: auto;
+}
